@@ -9,6 +9,8 @@ https://www.udemy.com/course/2020-intro-to-agent-based-modeling-simulation-ai-in
 https://www.complexityexplorer.org/courses/84-fundamentals-of-netlogo 
 https://www.youtube.com/watch?v=9X8VsD814A0  
 
+### biostats.w.uib.no/topics/netlogo  
+https://biostats.w.uib.no/topics/netlogo/netlogo-1-installation-and-first-steps/
 ### Coursera
 https://www.coursera.org/projects/abm-netlogo 
 ## Books (online)
