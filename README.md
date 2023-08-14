@@ -48,3 +48,5 @@ https://github.com/Limor-Raviv/Tutorial_Agent_Based_Models/tree/master
 https://caam37830.github.io/book/09_computing/agent_based_models.html 
 https://mesa.readthedocs.io/en/stable/  
 https://agentpy.readthedocs.io/en/latest/  
+## Others  
+https://sesync-ci.github.io/gis-abm-lesson/course/
